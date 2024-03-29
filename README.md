@@ -1,6 +1,6 @@
 # <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/> Discord Bot for Raspberry Pi Hosting <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
 
-Welcome to the Discord bot that can be hosted on Raspberry Pi for continuous operation. Let me introduce you to how to use it and what it's all about.
+ Discord bot that can be hosted on Raspberry Pi for continuous operation. Let me introduce you to how to use it and what it's all about.
 
 ## Getting Started
 
