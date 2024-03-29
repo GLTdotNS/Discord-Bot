@@ -23,7 +23,7 @@ client.on("messageCreate", async (msg) => {
 
   if (
     msg.content.toLowerCase().startsWith(prefixDelete + "cc") &&
-    msg.author.username === "adminName"
+    msg.author.username === "ValkyrieEUW"
   ) {
     clearMessages(msg);
   }
